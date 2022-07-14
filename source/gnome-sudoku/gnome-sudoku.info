@@ -1,0 +1,8 @@
+PRGNAM="gnome-sudoku"
+VERSION="42.0"
+HOMEPAGE="https://wiki.gnome.org/Apps/Sudoku"
+DOWNLOAD="https://download.gnome.org/sources/gnome-sudoku/42/gnome-sudoku-42.0.tar.xz"
+MD5SUM="706f5649b2733e95a28bfd2c06077684"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"

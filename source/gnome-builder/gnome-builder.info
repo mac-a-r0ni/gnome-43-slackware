@@ -1,0 +1,8 @@
+PRGNAM="gnome-builder"
+VERSION="43.alpha0"
+HOMEPAGE="https://gitlab.gnome.org/GNOME/gnome-builder"
+DOWNLOAD="https://download.gnome.org/sources/gnome-builder/43/gnome-builder-43.alpha0.tar.xz"
+MD5SUM="e6707516a3f4497cd2e573b3c23a83f3"
+REQUIRES="jsonrpc-glib libdazzle devhelp sysprof cmark sphinx_rtd_theme smartypant"
+MAINTAINER=""
+EMAIL=""

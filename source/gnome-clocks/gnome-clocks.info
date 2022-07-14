@@ -1,0 +1,8 @@
+PRGNAM="gnome-clocks"
+VERSION="43.alpha"
+HOMEPAGE="https://apps.gnome.org/app/org.gnome.clocks/"
+DOWNLOAD="https://download.gnome.org/sources/gnome-clocks/43/gnome-clocks-43.alpha.tar.xz"
+MD5SUM=""
+REQUIRES="gsound"
+MAINTAINER=""
+EMAIL=""

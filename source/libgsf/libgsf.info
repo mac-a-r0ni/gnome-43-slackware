@@ -1,0 +1,8 @@
+PRGNAM="libgsf"
+VERSION="1.14.50"
+HOMEPAGE="https://wiki.gnome.org/Projects/Libgsf"
+DOWNLOAD="https://download.gnome.org/sources/libgsf/1.14/libgsf-1.14.50.tar.xz"
+MD5SUM="1e9088c9c8869532945a10f12f1829c2"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""

@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description. Line
+# up the first '|' above the ':' following the base package name, and the '|' on
+# the right side marks the last column you can put a character in. You must make
+# exactly 11 lines for the formatting to be correct. It's also customary to
+# leave one space after the ':'.
+
+      |-----handy-ruler------------------------------------------------------|
+pango2: pango2 (library for layout and rendering of text)
+pango2:
+pango2: pango2 is a library for layout and rendering of text, with an emphasis
+pango2: on internationalization. pango2 can be used anywhere that text layout
+pango2: is needed; however, most of the work on pango2 was done using the GTK+
+pango2: widget toolkit as a test platform. pango2 forms the core of text and
+pango2: font handling for GTK.
+pango2:
+pango2:
+pango2:
+pango2:

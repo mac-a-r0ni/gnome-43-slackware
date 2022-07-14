@@ -1,0 +1,8 @@
+PRGNAM="gnome-initial-setup"
+VERSION="42.2"
+HOMEPAGE="https://gitlab.gnome.org/GNOME/gnome-initial-setup"
+DOWNLOAD="https://download.gnome.org/sources/gnome-initial-setup/42/gnome-initial-setup-42.2.tar.xz"
+MD5SUM="12fcb064fc92152787c1c21243a384ad"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"

@@ -1,0 +1,8 @@
+PRGNAM="gnome-menus"
+VERSION="3.36.0"
+HOMEPAGE="https://gitlab.gnome.org/GNOME/gnome-menus"
+DOWNLOAD="https://download.gnome.org/sources/gnome-menus/3.36/gnome-menus-3.36.0.tar.xz"
+MD5SUM="a8fd71fcf31a87fc799d80396a526829"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"

@@ -1,0 +1,8 @@
+PRGNAM="devhelp"
+VERSION="43.alpha"
+HOMEPAGE="https://wiki.gnome.org/Apps/Devhelp"
+DOWNLOAD="https://download.gnome.org/sources/devhelp/43/devhelp-43.alpha.tar.xz"
+MD5SUM="1980ed4ab0a498aad7761e48a34b5a88"
+REQUIRES="webkit2gtk"
+MAINTAINER=""
+EMAIL=""

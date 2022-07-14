@@ -1,0 +1,8 @@
+PRGNAM="GNOME Settings Daemon"
+VERSION="43.alpha"
+HOMEPAGE="https://slackbuilds.org/templates/template.info"
+DOWNLOAD="https://download.gnome.org/sources/gnome-settings-daemon/43/gnome-settings-daemon-43.alpha.tar.xz"
+MD5SUM="267d110cb7356bf529aae51ed0326558"
+REQUIRES="%README% colord geoclue2 geocode-glib gnome-desktop libgweather"
+MAINTAINER=""
+EMAIL=""

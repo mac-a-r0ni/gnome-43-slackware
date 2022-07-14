@@ -1,0 +1,9 @@
+GNOME Shell Extensions is a collection of extensions providing 
+additional and optional functionality to GNOME Shell.
+Since GNOME Shell is not API stable, extensions work only against a 
+very specific version of the shell, usually the same as this package 
+(see "configure --version"). The extensions in this package are 
+supported by GNOME and will be updated to reflect future API changes in 
+GNOME Shell.
+
+

@@ -1,0 +1,8 @@
+PRGNAM="gnome-console"
+VERSION="42.2"
+HOMEPAGE="https://gitlab.gnome.org/GNOME/console"
+DOWNLOAD="https://download.gnome.org/sources/gnome-console/42/gnome-console-42.2.tar.xz"
+MD5SUM="e42929959623fcc728d30980bee31f01"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""

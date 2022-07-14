@@ -1,0 +1,8 @@
+PRGNAM="eog"
+VERSION="42.2"
+HOMEPAGE="https://wiki.gnome.org/Apps/EyeOfGnome"
+DOWNLOAD="https://download.gnome.org/sources/eog/42/eog-42.2.tar.xz"
+MD5SUM="1ecb41490150df16610a669344feeb8b"
+REQUIRES=""
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"

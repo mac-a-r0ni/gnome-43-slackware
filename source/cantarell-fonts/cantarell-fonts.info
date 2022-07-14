@@ -1,0 +1,8 @@
+PRGNAM="cantarell-fonts"
+VERSION="0.303.1"
+HOMEPAGE="https://github.com/GNOME/cantarell-fonts"
+DOWNLOAD="https://download.gnome.org/core/42/42.2/sources/cantarell-fonts-0.303.1.tar.xz"
+MD5SUM="a9be59ddb29204dcfd3357f201949b8c"
+REQUIRES="gnome-common gcab appstream-glib"
+MAINTAINER="Frank Honolka"
+EMAIL="slackernetuk@gmail.com"
