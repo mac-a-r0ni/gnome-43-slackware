@@ -1,0 +1,8 @@
+PRGNAM="vala"
+VERSION="0.56.2"
+HOMEPAGE="https://wiki.gnome.org/Projects/Vala"
+DOWNLOAD="https://download.gnome.org/sources/vala/0.56/vala-0.56.2.tar.xz"
+MD5SUM="de5d84b4941a834e2ed7983432220283"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""
