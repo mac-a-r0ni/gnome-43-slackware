@@ -86,7 +86,7 @@ cd build
   --mandir=/usr/man \
   -Dtests=false \
   -Dgtk_doc=false \
-  -Ddocbook_docs=false \
+  -Ddocbook_docs=disabled \
   ..
 
   "${NINJA:=ninja}"
