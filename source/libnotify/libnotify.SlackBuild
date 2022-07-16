@@ -87,6 +87,7 @@ cd build
   -Dtests=false \
   -Dgtk_doc=false \
   -Ddocbook_docs=disabled \
+  -Dman=false \
   ..
 
   "${NINJA:=ninja}"

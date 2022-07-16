@@ -21,15 +21,11 @@
 #  WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
 #  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 #  ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-#  -----------------------------------------------------------------------------
-#  MODIFIED BY FRANK HONOLKA <slackernetuk@gmail.com>
-#  -----------------------------------------------------------------------------
-#
 
 PRGNAM=gnome-calculator
 VERSION=${VERSION:-43.alpha}
 BUILD=${BUILD:-1}
-TAG=${TAG:-_gfs}
+TAG=${TAG:-_jbl}
 
 if [ -z "$ARCH" ]; then
   case "$( uname -m )" in
@@ -39,7 +35,7 @@ if [ -z "$ARCH" ]; then
   esac
 fi
 
-TMP=${TMP:-/tmp/gfs}
+TMP=${TMP:-/tmp/jbl}
 PKG=$TMP/package-$PRGNAM
 OUTPUT=${OUTPUT:-/tmp}
 CWD=$(pwd)
