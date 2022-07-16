@@ -1,0 +1,8 @@
+PRGNAM="evince"
+VERSION="43.alpha"
+HOMEPAGE="https://wiki.gnome.org/Apps/Evince"
+DOWNLOAD="https://download.gnome.org/sources/evince/42/evince-43.alpha.tar.xz"
+MD5SUM="95edfb401d3f5870521062729958b097"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""

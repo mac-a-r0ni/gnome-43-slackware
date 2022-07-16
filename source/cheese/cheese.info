@@ -1,0 +1,8 @@
+PRGNAM="cheese"
+VERSION="43.alpha"
+HOMEPAGE="https://wiki.gnome.org/Apps/Cheese"
+DOWNLOAD="https://download.gnome.org/sources/cheese/43/cheese-43.alpha.tar.xz"
+MD5SUM="7024223f609d235cbee6b13abc7693ff"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""

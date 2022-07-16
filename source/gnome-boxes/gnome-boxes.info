@@ -1,0 +1,8 @@
+PRGNAM="gnome-boxes"
+VERSION="43.alpha"
+HOMEPAGE="https://wiki.gnome.org/Apps/Boxes"
+DOWNLOAD="https://download.gnome.org/sources/gnome-boxes/43/gnome-boxes-43.alpha.tar.xz"
+MD5SUM="3ae2c563d50648bc7ee873836d919632"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""

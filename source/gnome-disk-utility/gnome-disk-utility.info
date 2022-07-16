@@ -1,0 +1,8 @@
+PRGNAM="gnome-disk-utility"
+VERSION="43.alpha"
+HOMEPAGE="https://gitlab.gnome.org/GNOME/gnome-disk-utility"
+DOWNLOAD="https://download.gnome.org/sources/gnome-disk-utility/43/gnome-disk-utility-43.alpha.tar.xz"
+MD5SUM="86681c8fdba82ba360c7175b0e697f88"
+REQUIRES=""
+MAINTAINER=""
+EMAIL=""
